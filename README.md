@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tetsu-is&count_private=true&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tetsu-is&count_private=true&show_icons=true&bg_color=000000&hide_border=true&title_color=238636&icon_color=238636&text_color=ffffff)
 <!--
 **Tetsu-is/Tetsu-is** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
