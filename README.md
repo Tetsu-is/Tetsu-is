@@ -10,7 +10,7 @@ Flutter, Riverpod
 ***
 2023 Jun~Nov 
 ### Internship frontend/design at Kobe
-Next,js, TypeScript, tailwind, jest, storybook
+Next.js, React, TypeScript, tailwind, jest, storybook
 ***
 2022~2026
 ### Kwansei Gakuin Univ. Computer Science
