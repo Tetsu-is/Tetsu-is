@@ -2,6 +2,13 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tetsu-is&theme=chartreuse_dark"></img>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tetsu-is&theme=chartreuse_dark"></img>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tetsu-is&count_private=true&show_icons=true&bg_color=000000&hide_border=true&title_color=7fff00&icon_color=238636&text_color=ffffff)
+## Skills
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=nextjs,vite,react,tailwind,jest,ts,js,html,css,)](https://skillicons.dev)
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=go,laravel,django,php,python)](https://skillicons.dev)
+### Mobile
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,swift,kotlin)](https://skillicons.dev)
 ## Experience 
 ***
 2023 Nov~ 
@@ -16,10 +23,3 @@ Next.js, React, TypeScript, tailwind, jest, storybook
 ### Kwansei Gakuin Univ. Computer Science
 DataStructure&Algolithm, NetWork, OperationSystem etc.
 ***
-## Skills
-### Frontend
-[![My Skills](https://skillicons.dev/icons?i=nextjs,vite,react,tailwind,jest,ts,js,html,css,)](https://skillicons.dev)
-### Backend
-[![My Skills](https://skillicons.dev/icons?i=go,laravel,django,php,python)](https://skillicons.dev)
-### Mobile
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,swift,kotlin)](https://skillicons.dev)
