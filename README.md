@@ -15,16 +15,9 @@
 | [Sutto](https://github.com/Tetsu-is/front-end) | 見た夢の内容を簡単な操作で日記として記録することでAIが夢の内容を元に画像を生成してくれる。アラーム機能も付いていて生活リズムを楽しく改善することが目的 | ReactNative, ChatGPT(DALL-E-3) |
 | [ConnectMBTI](https://github.com/Tetsu-is/ConnectMBTI) | MBTIの相性を元にした友達マッチングアプリ。オンライン上でもオフラインに負けない交友関係を構築することが目的| Next.js, YamadaUI, Go |
 ## Experience 
-***
-2023 Nov~ 
-### Internship mobile/design at Osaka
-Flutter, Riverpod
-***
-2023 Jun~Nov 
-### Internship frontend/design at Kobe
-Next.js, React, TypeScript, tailwind, jest, storybook
-***
-2022~2026
-### Kwansei Gakuin Univ. Computer Science
-DataStructure&Algolithm, NetWork, OperationSystem etc.
-***
+| 時期 | 出来事 | 内容 |
+| ---- | ---- | ---- |
+| 2023 Nov~ | モバイルアプリ開発インターン | 要件定義、Flutter, Riverpod, Supabase等で開発 | 
+| 2023 Jun~Nov | フロントエンド開発インターン | figmaでデザイン、Next.js, TypeScript, taildwindで開発、jest, Storybookでテスト |
+| 2022~2026 | 関西学院大学工学部情報工学課程 | コンピュータサイエンスを学ぶ |
+
