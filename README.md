@@ -17,7 +17,7 @@
 ## Experience 
 | 時期 | 出来事 | 内容 |
 | ---- | ---- | ---- |
-| 2024 Jun~Current | 受託開発企業にてフルスタックな開発バイト | ドメイン駆動設計に基づくアプリケーション設計,　React(SPA)とGo(Echo)を用いた実装とテスト(E2E, unit, integratration)| 
+| 2024 Jun~Current | 受託開発企業にて開発バイト | ドメイン駆動設計に基づくアプリケーション設計,　React(SPA)とGo(Echo)を用いた実装とテスト(E2E, unit, integratration)| 
 | 2023 Nov~2024 May | モバイルアプリ開発インターン | 要件定義、Flutter, Riverpod, Supabase等で開発 | 
 | 2023 Jun~Nov | フロントエンド開発インターン | figmaでデザイン、Next.js, TypeScript, taildwindで開発、jest, Storybookでテスト |
 | 2022~2026 | 関西学院大学工学部情報工学課程 | コンピュータサイエンスを学ぶ。IT系学生団体Tech.Uniの運営メンバーの活動を通してイベント企画やコミュニティ活性化について学ぶ|
