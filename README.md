@@ -17,6 +17,8 @@
 ## Experience 
 | 時期 | 出来事 | 内容 |
 | ---- | ---- | ---- |
+| 2024 Sep | MIXI 夏季インターン| TIPSTARのサーバー開発でmicroserviceやgitsubmoduleを学ぶ、SpannerのDB設計など |
+| 2024 Aug | CARTA Treasure2024 | ドメインモデリングや小さく作る、小さくリリースする開発手法を学ぶ |
 | 2024 Jun~Current | 受託開発企業にて開発バイト | ドメイン駆動設計に基づく設計,　React(SPA)とGo(Echo)を用いたWebアプリ開発とテスト(E2Eテスト,バックエンドの単体・結合テスト)| 
 | 2023 Nov~2024 May | モバイルアプリ開発インターン | 要件定義、Flutter, Riverpod, Supabase等で開発 | 
 | 2023 Jun~Nov | フロントエンド開発インターン | figmaでデザイン、Next.js, TypeScript, taildwindで開発、jest, Storybookでテスト |
