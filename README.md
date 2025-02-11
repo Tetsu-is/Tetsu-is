@@ -17,6 +17,7 @@
 ## Experience 
 | 時期 | 出来事 | 内容 |
 | ---- | ---- | ---- |
+| 2025 Jan | PKSHA Technology インターン | ITECチームにてアプリケーション開発 |
 | 2024 Dec~Current | CARTA GenerativeAILabアルバイト | LLMOps, 生成AIを使ったアプリケーション開発 |
 | 2024 Sep | MIXI 夏季インターン| TIPSTARのサーバー開発でmicroserviceやgitsubmoduleを学ぶ、SpannerのDB設計など |
 | 2024 Aug | CARTA Treasure2024 | ドメインモデリングや小さく作る、小さくリリースする開発手法を学ぶ |
