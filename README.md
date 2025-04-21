@@ -1,7 +1,7 @@
 # I'm Tetsuro Ishimoto!!
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tetsu-is&theme=chartreuse_dark"></img>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tetsu-is&theme=chartreuse_dark"></img>
-<img src="https://github-readme-stats.vercel.app/api?username=Tetsu-is&count_private=true&show_icons=true&bg_color=000000&hide_border=true&title_color=7fff00&icon_color=238636&text_color=ffffff"></img>
+[![trophy](https://github-profile-trophy.vercel.app/?username=tetsu-is)](https://github.com/ryo-ma/github-profile-trophy)
 ## Experience 
 | 時期 | 出来事 | 内容 |
 | ---- | ---- | ---- |
