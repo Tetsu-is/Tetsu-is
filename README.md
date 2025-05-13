@@ -6,7 +6,7 @@
 | 時期 | 出来事 | 内容 |
 | ---- | ---- | ---- |
 | ~May 2025 | CARTA GenerativeAILabアルバイト | LLMOps, 生成AIを使ったアプリケーション開発, AI Agentの調査 |
-| Jan 2025 | PKSHA Technology インターン | ITECチームにてアプリケーション開発 |
+| Jan 2025 | PKSHA Technology インターン | ITECチームで開発。クローリング、UI修正など |
 | Dec 2024~ | CARTA GenerativeAILabアルバイト | LLMOps, 生成AIを使ったアプリケーション開発, AI Agentの調査 |
 | Sep 2024 | MIXI 夏季インターン| TIPSTARのサーバー開発。SpannerのDB設計など |
 | Aug 2024 | CARTA Treasure2024 | ドメインモデリングや小さく作る、小さくリリースする開発手法など |
